@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "jp.pokemon.pokemontcgp"
+#define GamePackageName "com.kiloo.subwaysurf"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
